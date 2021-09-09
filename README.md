@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kaa-serpent
 
-![Kaa-serpent's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaa-serpent&count_private=true&theme=highcontrast)
+![Kaa-serpent's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaa-serpent&count_private=true&theme=synthwave)
 
 <!---
 kaa-serpent/kaa-serpent is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
